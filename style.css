@@ -1,0 +1,11 @@
+div {
+    background-color: red;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 100px;
+    height: 50px;
+}
+#colorButton{
+    background-color: gray;
+    margin-left: 10px;
+}
